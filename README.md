@@ -8,4 +8,4 @@ Soy estudiante de desarrollo de software
 - Python
 - Git
 
-[mondongo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AvHjHu-rvfBVpWEz3YvkgJ31R5Gog9HFsQ&s)
+![logo](https://static.wikia.nocookie.net/terraria/images/7/7f/Logomobile.png/revision/latest/thumbnail/width/360/height/360?cb=20190827222402&path-prefix=es)
