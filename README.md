@@ -8,4 +8,4 @@ Soy estudiante de desarrollo de software
 - Python
 - Git
 
-![logo](https://static.wikia.nocookie.net/terraria/images/7/7f/Logomobile.png/revision/latest/thumbnail/width/360/height/360?cb=20190827222402&path-prefix=es)
+![logo](https://media.tenor.com/5Oph5H23bDcAAAAi/terraria-terraria-calamity.gif)
