@@ -1,3 +1,4 @@
+<img src="https://giffiles.alphacoders.com/377/37708.gif" width="80%" />
 # 💫 About Me:
 Python<br>Git<br>Version Control<br>Software Development<br>Problem Solving<br>Analytical Thinking<br>Debugging<br>VSCode<br>ChatGPT<br>Claude<br>AI-assisted Development<br>Programming<br>Backend Development<br>Code Management<br>Software Engineering<br>Self-learning<br>Logical Thinking
 
