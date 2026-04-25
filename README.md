@@ -8,4 +8,4 @@ Soy estudiante de desarrollo de software
 - Python
 - Git
 
-<img src="https://media.tenor.com/5Oph5H23bDcAAAAi/terraria-terraria-calamity.gif" width="250">
+<img src="https://media.tenor.com/DpwNXeHlsRIAAAAi/trabajando.gif" width="250">
