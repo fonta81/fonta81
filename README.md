@@ -1,6 +1,6 @@
 # Hola 👋
 
-Soy estudiante de programación/ingeniería de sistemas/etc...
+Soy estudiante de desarrollo de software
 
 ## Tecnologías que estoy aprendiendo
 
